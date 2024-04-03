@@ -1,0 +1,36 @@
+Problem Statement: Be Cognizant Home Page header View.
+
+1.       Verify the user Information in Be Cognizant Home Page.
+
+2.       Verify Be Cognizant Home Page all Headers.
+
+3.       Validate all header information.
+
+4.       Validate Ethics & Compliance is visible under the Corporate Function ̶̶> Legal & Corporate affairs header.
+
+5.       Validate user navigation to Ethics & Compliance page.
+
+6.       Validate Resource/ Link and other information in Ethics & Compliance page.
+
+(Suggested Site: https://be.cognizant.com)
+Detailed Description:
+
+1.Navigate to Be. Cognizant Website and capture the user information.
+
+2. Get all Header and capture each header information.
+
+3.Get all sub header information and capture each header information.
+
+4.Validate Ethics & Compliance is visible in Corporate Function ̶̶> Legal & Corporate affairs header.
+
+5.Navigate to Ethics & Compliance page.
+
+6.Validate Resources/Link in Ethics & Compliance page and print all information.
+
+7.Validate and Print Ethics & Compliance page information.
+
+
+Technologies used
+Java
+Selenium
+Testng

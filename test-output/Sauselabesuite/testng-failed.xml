@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sauselabesuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="CASpro.Extentreport"/>
+  </listeners>
+  <test thread-count="5" name="chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="CASpro.Cas_Project">
+        <methods>
+          <include name="getSubHeader"/>
+          <include name="done"/>
+          <include name="getHeader"/>
+          <include name="setup"/>
+          <include name="userInformation"/>
+          <include name="resourceLink"/>
+          <include name="corporateFunction"/>
+        </methods>
+      </class> <!-- CASpro.Cas_Project -->
+    </classes>
+  </test> <!-- chrome(failed) -->
+</suite> <!-- Failed suite [Sauselabesuite] -->
